@@ -6,28 +6,28 @@ import p4_img from "./product_4.png";
 let data_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "The Midnight Duchess",
     image: p1_img,
     new_price: 5000,
     old_price: 8000,
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Peplum Hem Blouse",
     image: p2_img,
     new_price: 8500,
     old_price: 12000,
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "The Velocity Vixen",
     image: p3_img,
-    new_price: 60000,
+    new_price: 6000,
     old_price: 7000,
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "The Onyx Oracle",
     image: p4_img,
     new_price: 10000,
     old_price: 15000,
